@@ -37,35 +37,11 @@ $string['enterurl'] = 'Enter URL';
 $string['height'] = 'Height';
 $string['imageproperties'] = 'Image properties';
 $string['presentation'] = 'Description not necessary';
-$string['pluginname'] = 'Image';
+$string['pluginname'] = 'Insert or edit image';
 $string['presentationoraltrequired'] = 'Images must have a description, except if the description is marked as not necessary.';
 $string['preview'] = 'Preview';
 $string['saveimage'] = 'Save image';
 $string['size'] = 'Size';
+$string['uploading'] = 'Uploading, please wait...';
 $string['width'] = 'Width';
-
-// Settings specific strings.
-$string['settings'] = 'Image Settings';
-$string['imageresizesettingheading'] = 'Image Resizing';
-$string['availableresizehandle'] = 'Available resize handle';
-$string['minmaxwidthheight'] = 'Minimum/Maximum Width/Height';
-$string['togglekeypreserveaspectratio'] = 'Toggle-key for preserving aspect ratio';
-
-$string['resizeanimationheading'] = 'Resize Animation';
-$string['resizeanimationenable'] = 'Enable resize animation';
-$string['resizeanimationduration'] = 'Resize animation duration (s)';
-$string['resizeeasing'] = 'Resize easing';
-
-$string['imagestylingsettingheading'] = 'Image Stlying';
-$string['disablecustomclasses'] = 'Disable custom classes';
-
-// Overlays.
-$string['customcsstooltip'] = 'custom css';
-$string['spacingtooltip'] = 'spacing';
-$string['bordertooltip'] = 'border';
-$string['texttoptooltip'] = 'text-top';
-$string['textbaselinetooltip'] = 'baseline';
-$string['textbottomtooltip'] = 'text-bottom';
-$string['leftaligntooltip'] = 'left-align';
-$string['rightaligntooltip'] = 'right-align';
-$string['normalflowtooltip'] = 'normal-flow';
+$string['privacy:metadata'] = 'The atto_image plugin does not store any personal data.';
